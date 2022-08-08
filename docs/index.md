@@ -5,4 +5,4 @@ Here is a compound of my many topic notes.
 ## Python
 
 ### [Python Dictionaries](https://natasaur.github.io/LearningPython/PythonDictionaries)
-### [PythonDictionariesAndLoops](https://natasaur.github.io/LearningPython/PythonDictionariesAndLoops)
+### [Python Dictionaries and Loops](https://natasaur.github.io/LearningPython/PythonDictionariesAndLoops)
