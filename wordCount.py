@@ -1,5 +1,5 @@
 #This is a program that counts the times a 
-#name appears in a list the old schoool way#
+#name appears in a list the old schoool way
 
 counts = dict()
 names = ['csev','cwen','csev','zquian','cwen']
