@@ -20,4 +20,4 @@ for line in handle:
     for word in words:
         counts[words] = counts.get(words,0) + 1
 ```
-You can check this on: https://natasaur.github.io/LearningPython
+You can check this on: [LearningPython](https://natasaur.github.io/LearningPython)
