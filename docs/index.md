@@ -2,6 +2,6 @@
 
 Here is a compound of my many topic notes.
 
-##Python
+## Python
 
-###[Python Dictionaries](https://natasaur.github.io/LearningPython/PythonDictionaries)
+### [Python Dictionaries](https://natasaur.github.io/LearningPython/PythonDictionaries)
