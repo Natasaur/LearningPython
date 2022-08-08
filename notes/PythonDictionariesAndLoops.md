@@ -1,5 +1,5 @@
 ## Counting Words in Text
-The general pattern that count the words in a line of text is to **splt** the line into words, then loop through the words and use dictionary to track the count of each word independently.
+The general pattern that count the words in a line of text is to **split** the line into words, then loop through the words and use dictionary to track the count of each word independently.
 ```
 #Count how many words are in the text.
 
@@ -32,3 +32,9 @@ for key in counts:
 chuck 1
 fred 42
 jan 100
+
+## Two Iteration Variables!
+We loop through the **key-value** pairs in a dictionary using **two** iteration variables.
+Each iteration, the first variable is the key and second variable is corresponding value of key.
+
+August 8th 2022
