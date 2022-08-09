@@ -10,8 +10,8 @@ words = line.split()
 
 numWords = 0
 
-#Bulids a dictionary that counts how many times a word appears and counts
-#the number of words at each iteration.
+# Bulids a dictionary that counts how many times a word appears and counts
+# the number of words at each iteration.
 print('Counting... ')
 for word in words:
     counts[word] = counts.get(word,0) + 1
