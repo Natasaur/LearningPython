@@ -1,6 +1,7 @@
 #Agrega aquí los archivos propios que quieres 
 #que sean ignorados
 *.png
+*.dist
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
