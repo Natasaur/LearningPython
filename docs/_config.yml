@@ -1,3 +1,4 @@
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 theme: jekyll-theme-midnight
 lsi: false
 safe: true
