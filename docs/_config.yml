@@ -1,5 +1,7 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 theme: jekyll-theme-midnight
+plugins:
+  - jekyll-remote-theme
 lsi: false
 safe: true
 source: LearningPython
