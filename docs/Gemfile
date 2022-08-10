@@ -1,3 +1,0 @@
-source "https://github.com/vaibhavvikas/jekyll-theme-minimalistic"
-
-gem "jekyll-remote-theme"
