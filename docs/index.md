@@ -11,3 +11,5 @@ Here is a compound of my many topic notes.
 ### [Python Dictionaries and Loops](https://natasaur.github.io/LearningPython/PythonDictionariesAndLoops)
 
 ### [The Tuples Collection](https://natasaur.github.io/LearningPython/TheTuplesCollection)
+
+### [Comparing and Sorting Tuples](https://natasaur.github.io/LearningPython/ComparingAndSorting.md)
