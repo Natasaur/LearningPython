@@ -16,7 +16,7 @@ for iter in y:
     print(iter)
 ```
 
-This prints:
+This prints:  
 1  
 9  
 2  
@@ -42,6 +42,7 @@ This prints:
 ## Tuples are more efficient
 
 Since Python does not have to build tuple structures to be modifiable, they are simplier and more efficient in terms of memory use and performance than lists.  
+
 ## Tuples and Assignment
 
 We can put a tuple on the **left-hand sided** of an assignment statement.  
@@ -68,3 +69,11 @@ cwen 2
 csev 4
 ```
 
+## Tuples are Comparable
+
+The comparison operators work with tuples and other sequences. If the first item is equal, Python then goes to the next element, and so on, until it finds elements that differs.
+
+```python
+>>>(0,1,2) < (5,1,2)
+True
+```
