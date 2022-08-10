@@ -1,3 +1,5 @@
+# The Basics
+
 ## Syntax Errors
 
 We need to learn Python Language so we can communicate our instructions to Python.
