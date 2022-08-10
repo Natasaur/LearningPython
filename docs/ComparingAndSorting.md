@@ -1,4 +1,6 @@
-# Sorting Lists of Tuples
+# Comparing and Sorting Tuples
+
+## Sorting Lists of Tuples
 
 We can sort a list of tuples to get a sorted version of a dictinary. First we sort the dictionary by the key using the items() method and sorted() function.
 
@@ -20,4 +22,17 @@ Another example:
 a 10
 b 1
 c 22
+```
+
+## Sort by values instead of key
+
+If we could construct a list of tuples of the form (value,key) we colud sort by value. We do this with a for loop that creates a list of tuples.
+
+```python
+>>> c = {'a':10, 'b':1, 'c':22}
+>>> tmp = list()
+>>> for k,v in c.items():
+>>>     tmp.append((v,k))
+>>> print(tmp)
+[(10,'a'),(1,'b'),(22,'c')]
 ```
