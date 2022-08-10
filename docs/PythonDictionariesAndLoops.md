@@ -1,6 +1,10 @@
+# Dictionaries and Loops
+
 ## Counting Words in Text
+
 The general pattern that count the words in a line of text is to **split** the line into words, then loop through the words and use dictionary to track the count of each word independently.
-```
+
+```bash
 #Count how many words are in the text.
 
 counts = dict()
@@ -22,18 +26,23 @@ for word in words:
 
 print('Total of words:',numWords)
 ```
+
 ## Definite Loops anf Dictionaries
+
 Even though dictionaries are not stored in order, we can write a for loop that goes through all the **entries** in a dictionary and **looks up** the values.
-```
+
+```bash
 counts = {'chuck' : 1 , 'fred' : 42 , 'jan' : 100}
 for key in counts:
     print(key,counts[key])
 ```
-chuck 1
-fred 42
-jan 100
+
+chuck 1  
+fred 42  
+jan 100  
 
 ## Two Iteration Variables!
+
 We loop through the **key-value** pairs in a dictionary using **two** iteration variables.
 Each iteration, the first variable is the key and second variable is corresponding value of key.
 
