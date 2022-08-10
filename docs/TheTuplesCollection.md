@@ -58,7 +58,7 @@ freud
 
 The items() method in dictionaries returns a list of (key,value) tuples.
 
-```bash
+```python
 >>>d = dict()
 >>>d['cewn'] = 2
 >>>d['csev'] = 4
